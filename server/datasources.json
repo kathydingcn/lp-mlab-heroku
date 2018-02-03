@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mylbapp2": {
+    "host": "ds223738.mlab.com",
+    "port": 223738,
+    "url": "mongodb://dbuser:dbuser@ds223738.mlab.com:23738/myspasystem",
+    "database": "myspasystem",
+    "password": "dbuser",
+    "name": "mylbapp2",
+    "user": "dbuser",
+    "connector": "mongodb"
+  }
+}
